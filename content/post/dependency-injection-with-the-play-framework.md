@@ -69,7 +69,7 @@ public class Application extends Controller {
 
 4.Start the application and go to the website at http://localhost:9000. It should look like this.
 
-![](/content/images/2014/12/bonjour-1.jpg)
+![](/images/2014/12/bonjour-1.jpg)
 
 I've upload the sample application here on https://github.com/codingricky/play-di-java. As you can see, it is much simplier now that DI has been incorporated directly into the framework. 
 

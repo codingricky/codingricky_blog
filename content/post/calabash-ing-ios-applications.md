@@ -34,7 +34,7 @@ $ git clone https://github.com/codingricky/todoSwift
 
 You should be presented with an application that looks like the following:
 
-![](/content/images/2014/10/iOS-Simulator-Screen-Shot-29-Oct-2014-9-45-29-pm.png)
+![](/images/2014/10/iOS-Simulator-Screen-Shot-29-Oct-2014-9-45-29-pm.png)
 
 Clicking **Add** will add a task. Clicking **Done** will remove any checked tasks.
 

@@ -27,18 +27,18 @@ These are some choices and technical decisions that were made throughout the day
 
 So we ended up with a demonstrable piece of software which would generate QR codes like this: 
 
-![](/content/images/2014/May/BjyKRcgCAAAKZzN.png)
+![](/images/2014/May/BjyKRcgCAAAKZzN.png)
 
 Upon scanning it in, it would take the scanner to a page like this: 
 
-![](/content/images/2014/May/MyHealth.png)
+![](/images/2014/May/MyHealth.png)
 
 
 The source code to this can be found [here](https://github.com/DiUS/myhealth). 
 
 The mobile component of our solution used RubyMotion to create a small iOS application that allowed one to set their lock screen to contain their emergency information. The idea behind this was to allow someone to take appropriate action upon finding one's phone and not requiring them to unlock it.
 
-![](/content/images/2014/May/screen2.jpg)
+![](/images/2014/May/screen2.jpg)
 
 The source code to this can be found [here](https://github.com/DiUS/myhealth-ios).
 

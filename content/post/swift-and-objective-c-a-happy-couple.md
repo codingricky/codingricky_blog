@@ -79,7 +79,7 @@ In my ViewController, we can use the Swift **Message** class, we defined earlier
 
 The application running in the simulator ends up looking like this. 
 
-![](/content/images/2014/Oct/iOS-Simulator-Screen-Shot-20-Oct-2014-8-41-47-am-1.png)
+![](/images/2014/Oct/iOS-Simulator-Screen-Shot-20-Oct-2014-8-41-47-am-1.png)
 
 
 Simple as that really. I hope this article showed you how easy it was to go between Swift and Objective-C, and potentially a way to migrate, piecemeal your application over from Objective-C to Swift.

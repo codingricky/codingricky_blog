@@ -12,7 +12,7 @@ aliases = [
 
 [Dropwizard](https://dropwizard.github.io/dropwizard/), as described on their website is a *"Java framework for developing ops-friendly, high-performance, RESTful web services."* I have been using it recently after seeing it mentioned on my company's Yammer feed (funnily enough the framework emerged itself from Yammer) and have been enjoying it very much. One of the things I integrated into my setup of Dropwizard was [Guice](https://github.com/google/guice), as quite quickly I found I needed a way to inject my dependencies. The rest of this article will be devoted into showing you how to glue Dropwizard and Guice together.
 
-![](/content/images/2014/Aug/dropwizard-logo.png)
+![](/images/2014/Aug/dropwizard-logo.png)
 
 ###Prerequisites
 
@@ -232,7 +232,7 @@ $ java -jar target/DropWizardGuice-1.0-SNAPSHOT.jar server config.yml
 
 If the application starts up correctly, you should be able to go to a browser and hit the url, **http://localhost:8080/hello**
 
-![](/content/images/2014/Aug/message.png)
+![](/images/2014/Aug/message.png)
 
 ### Summary
 Thanks for reading, I hope this article was useful to you. Here are some references that were used in this article.

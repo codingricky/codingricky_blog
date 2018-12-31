@@ -29,15 +29,15 @@ Here are the pre-requisites:
 
 Firstly, within Eclipse, install the RoboVM plugin, under Help, Install New Software, http://download.robovm.org/eclipse/. This will need to restart the IDE.
 
-![](/content/images/2014/Jun/install-window.png)
+![](/images/2014/Jun/install-window.png)
 
 With the plugin installed, you can create a new project. Select the *'RoboVM iOS Project'* option.
 
-![](/content/images/2014/Jun/robovm-ios-project.png)
+![](/images/2014/Jun/robovm-ios-project.png)
 
 Just use *'HelloWorld'* as the *project name*, *Main class*, *App name* and *App id*. It should look like the screenshot below.
 
-![](/content/images/2014/Jun/HelloWorld.png)
+![](/images/2014/Jun/HelloWorld.png)
 
 For some reason, when I use the wizard, the *Main Class* does not get created, so this needs to be done manually. So create a class called *HelloWorld*. 
 
@@ -90,7 +90,7 @@ Most of the code above should be pretty self explanatory. The arguments into the
 
 If you right click the project and select *Run as/iOS Simulator App (iPhone)*. You should be presented with an iOS simulator with a green screen with the text "Hello World". Something like the screenshot below.
 
-![](/content/images/2014/Jun/Green-Hello-World.png)
+![](/images/2014/Jun/Green-Hello-World.png)
 
 If you have reached this point, it means your environment has been setup correctly and you should be able to start developing iOS applications with Java. 
 

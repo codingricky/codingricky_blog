@@ -30,7 +30,7 @@ pod 'JSONJoy-Swift', :git => "https://github.com/daltoniam/JSONJoy-Swift.git", :
 
 Once setup, I added a simple iOS view with an UIImageView and a **download** button.
 
-![](/content/images/2015/01/sample-app-1.png)
+![](/images/2015/01/sample-app-1.png)
 
 What the application will do, is upon clicking the download button, we will access the API, download the details of ['Ant Man'](http://en.wikipedia.org/wiki/Ant-Man) and set his thumbnail to the image view.
 
@@ -241,7 +241,7 @@ Note that the assignment of the imageView happens on the main thread. This is th
 
 We should be able to run our application, click download and see **Ant-Man** in all his glory.
 
-![](/content/images/2015/01/iOS-Simulator-Screen-Shot-27-Jan-2015-11-21-31-pm.png)
+![](/images/2015/01/iOS-Simulator-Screen-Shot-27-Jan-2015-11-21-31-pm.png)
 
 So that's it. Hopefully you have seen enough to get started using the Marvel api in a Swift application. Good luck creating your own application that uses the wonderful Marvel universe.
 

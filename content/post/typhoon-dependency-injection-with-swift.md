@@ -16,7 +16,7 @@ Dependency Injection is a useful design pattern that allows for an application t
 
 Let's start with the code from [this article](http://codingricky.com/swiftly-access-marvel-characters/). It is a very simple application that accesses the developer API of [Marvel](https://developer.marvel.com/) to download images of a character. 
 
-![](/content/images/2015/04/dependency-injection.png)
+![](/images/2015/04/dependency-injection.png)
 
 The **ViewController** class uses a **MarvelService** which has three properties; public key, private key and url. The **MarvelService** is the class that is responsible for interfacing with the Marvel API. Our first step will be injecting the MarvelService into the ViewController. 
 

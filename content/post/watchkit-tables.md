@@ -21,13 +21,13 @@ These are the pre-requisites for this article:
 
 The application will be a simple table showing a list of names and ages of people. 
 
-![](/content/images/2015/04/Bezel-Snapshot-2015-04-25-22-18-24.png)
+![](/images/2015/04/Bezel-Snapshot-2015-04-25-22-18-24.png)
 
 1.Start by checking out the src code from https://github.com/codingricky/sample-watchkit-table. 
 
 2.If you go to the **Interface.storyboard** of WatchTable WatchKit app, you will see a very basic scene with a table.
 
-![](/content/images/2015/04/storyboard.png)
+![](/images/2015/04/storyboard.png)
 
 Important to note that the TableRowController has a custom class the **TableRow**. There are outlets attached from the labels to the **TableRow** class. 
 

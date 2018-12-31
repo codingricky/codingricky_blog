@@ -18,9 +18,9 @@ Note that this article uses Swift as an example, so you will need an Xcode 6 bet
 
 First start by creating a barebones iPhone "Single View Application." Then proceed to add the images (back.png and front.png) that will represent the cards into the XCode Project. Here they are:
 
-![](/content/images/2014/Jul/back-1.png)
+![](/images/2014/Jul/back-1.png)
 
-![](/content/images/2014/Jul/front-1.png)
+![](/images/2014/Jul/front-1.png)
 
 I found the images [here](http://www.ironstarmedia.co.uk/resources/free-game-assets/browse/graphics/sprites/Playing+Cards). They have an entire deck of cards as well, if required.
 
@@ -52,7 +52,7 @@ In the **viewDidLoad** function, we will dynamically create the **cardView** and
 
 If you run the application now, it should just show the back of the playing card like this:
 
-![](/content/images/2014/Jul/ios-simulator.png)
+![](/images/2014/Jul/ios-simulator.png)
 
 Lets go and add gesture recognition to the **imageView** so it recognises when somebody taps on it.
 

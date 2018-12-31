@@ -16,7 +16,7 @@ Currently there are four watches which support the Connect IQ platform (920XT, E
 
 ###### What can you build?
 
-![](/content/images/2015/03/application-types.png)
+![](/images/2015/03/application-types.png)
 
 1.Watch Faces
 

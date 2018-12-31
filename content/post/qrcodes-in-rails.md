@@ -46,7 +46,7 @@ In the corresponding view, it will only be a matter of passing the *@qr* variabl
 
 If everything was done correctly, a QR code like the following should be rendered.
 
-![](/content/images/2014/Mar/qrcode.png)
+![](/images/2014/Mar/qrcode.png)
 
 Scanning this should take you to the front page of this blog.
 

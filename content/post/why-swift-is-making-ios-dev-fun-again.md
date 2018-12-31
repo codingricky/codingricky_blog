@@ -14,7 +14,7 @@ aliases = [
 
 The [WWDC 2014 Keynote](http://www.apple.com/apple-events/june-2014/) was on a couple of days ago and amongst the flurry of updates like iOS 8 and OSX 10.10 Yosemite, Apple announced a new programming language called [Swift](https://developer.apple.com/swift/), which will be able to be used to develop iOS and OSX applications. To me this was the most significant announcement of them all.
 
-![](/content/images/2014/Jun/swift-hero_2x.png)
+![](/images/2014/Jun/swift-hero_2x.png)
 
 When native applications were possible for iOS through Objective-C, I always thought that the language itself represented a "barrier to entry" to doing any iOS development. During my day job, most of my development involves Java or Ruby and in the evenings, when I put my hobbyist iOS hat on and try my hand at Objective-C, I always struggle and kringe my way through. 
 
