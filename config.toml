@@ -2,6 +2,7 @@ baseURL = "/"
 languageCode = "en-us"
 title = "Coding Ricky"
 theme = "hugo-cactus-theme"
+googleAnalytics = "UA-47428520-1"
 
 [params]
 	name = "Coding Ricky"
